@@ -1,4 +1,4 @@
-# Prediction-of-Diabetes---A-Machine-Learning-approach-using-Logistic-Regression-and-Decision-Trees
+# Prediction-of-Diabetes: A-Machine-Learning-approach-using-Logistic-Regression-and-Decision-Trees
 This project explores chronic disease risk factors by analyzing behavioral and demographic health indicators to predict diabetes likelihood. The analysis is based on real-world survey data collected by the CDC and includes both exploratory data analysis and predictive modeling using R.  
 
 ## Notes  
@@ -8,9 +8,9 @@ This project was developed using R in a local academic environment. While the da
 Diabetes remains a pressing public health issue, with many individuals unaware of their risk status. Using CDC's BRFSS dataset, we applied statistical and machine learning models to identify key drivers of diabetes and evaluate predictive accuracy across a balanced sample.  
 
 ## Dataset  
--Source: Behavioral Risk Factor Surveillance System (BRFSS) by CDC
--Size: ~250,000 records before cleaning; reduced to ~70,000 for modeling
--Target Variable: Binary classification — Diabetic vs. Non-Diabetic
+- Source: Behavioral Risk Factor Surveillance System (BRFSS) by CDC
+- Size: ~250,000 records before cleaning; reduced to ~70,000 for modeling
+- Target Variable: Binary classification — Diabetic vs. Non-Diabetic
 
 ## Technologies Used  
 - R (rpart, caret, ggplot2)
